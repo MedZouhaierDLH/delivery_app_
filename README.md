@@ -1,4 +1,4 @@
-# Food Delivery App
+# PlatterPath
 
 A pre-built, functional food delivery app developed with **Flutter x Firebase**, ready to deploy and use out of the box. This app includes email authentication and a fully integrated backend. Users can create accounts, browse menus, add items to their cart, input card payment details, and place orders. Orders are saved in Firebase for real-time live updates, and a receipt summarizing the order is generated for the user.
 
