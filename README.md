@@ -97,7 +97,7 @@ Displays real-time updates about the delivery status of the order.
 
 ## Navigation Flow
 
-To help users and developers understand how to navigate between the pages, include a diagram or flowchart showing the relationships between them.
+To help users and developers understand how to navigate between the pages
 
 ![Screen Shot 2024-03-06 at 5 26 58 pm](https://github.com/user-attachments/assets/45106bcf-5890-498b-bba5-4a3a6765d8fc)
 
@@ -129,12 +129,6 @@ Ensure the following dependencies are added to your `pubspec.yaml` file:
 - **Menu Categories**: Edit or add new categories in the `menu` section of the code.
 - **Theming**: Modify light and dark theme settings in the `theme` section.
 - **Backend Integration**: Customize Firebase configurations in the project settings.
-
----
-
-## Preview
-
-
 
 ---
 
