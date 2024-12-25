@@ -121,7 +121,6 @@ Ensure the following dependencies are added to your `pubspec.yaml` file:
 - `firebase_auth`
 - `firebase_database`
 - `provider`
-- `stripe_payment` (or your preferred payment plugin)
 
 ---
 
